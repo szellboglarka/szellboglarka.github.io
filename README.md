@@ -1,6 +1,6 @@
 # Hi there!
 
-#### 🌊 Valencia, Spain 🌞
+#### 🌊 I'm Boglarka Szell, a Software Developer form Valencia, Spain 🌞
 
 ## Work Experience
 **MaibornWolff SL (_2022.05. – Present_)**
