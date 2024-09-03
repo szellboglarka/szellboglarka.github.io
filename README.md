@@ -4,9 +4,8 @@
 
 ## Work Experience
 **MaibornWolff SL (_2022.05. – Present_)**
-Development for custom IoT devices using Azure IoT Edge, with strong focus on performance
-Tech-stack: 
-.Net | Angular | Docker | IoT | Azure | Grpc
+- Development for custom IoT devices using Azure IoT Edge, with strong focus on performance
+- Tech-stack: .Net, Angular, Docker, IoT, Azure, Grpc
 
 **Betsson Group (_2021.10 – 2022.04._)**
 - Full-stack development, microservices-based tool; 
