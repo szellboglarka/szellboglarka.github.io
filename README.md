@@ -1,10 +1,11 @@
-# Boglarka Szell
+# Hi there!
 
 #### 🌊 Valencia, Spain 🌞
 
 ## Work Experience
 **MaibornWolff SL (_2022.05. – Present_)**
 - Azure IoT Edge;
+  
 Tech-stack: .Net | Angular | Docker | IoT | Azure | Grpc
 
 **Betsson Group (_2021.10 – 2022.04._)**
