@@ -49,8 +49,8 @@ header .intro {
 }
 
 header h1 {
-    margin: 0;
-    font-size: 2.5em;
+    margin: 20px;
+    font-size: 200%;
     color: #333;
 }
 
