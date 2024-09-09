@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boglárka Széll | Resume</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header> 
+        <div class="profile">
+            <img src="assets/img/profilephoto.jpeg" alt="Profile Picture">
+        </div>       
+        <div>
+            <div class="intro">
+                <h1>Boglárka Széll</h1>
+                <p>Full-Stack Developer</p>
+                <p><a href="mailto:szellboglarka@gmail.com">szellboglarka@gmail.com</a> | Valencia, Spain</p>
+            </div>
+            <div class="social-links">
+                <a href="https://github.com/szellboglarka" target="_blank"><i class="fab fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/szellboglarka19970511/" target="_blank"><i class="fab fa-linkedin"></i></a>
+                <a href="https://www.instagram.com/bogitheszell/" target="_blank"><i class="fab fa-instagram"></i></a>
+            </div>
+            <button id="download-button" class="pill-button">Download this CV</button>
+        </div>              
+    </header>
+    <section class="main-content">
+        <div class="left-column">
+            
+            <section class="languages headersection">
+                <h3>Languages</h2>
+                <ul>
+                    <li>English – Native (C2)</li>
+                    <li>Spanish – Fluent (C1)</li>
+                    <li>Hungarian – Native (C2)</li>
+                </ul>
+            </section>
+            <hr>
+            <section class="interests headersection">
+                <h3>Courses, talks</h2>
+                <ul>
+                    <li>Girls in Tech @ Prezi - speaker</li>
+                    <li>Scrum Master training</li>
+                    <li>Public speaking training</li>
+                    <li>Developer Week Oakland</li>
+                    <li>Super AI Singapore</li>
+                </ul>
+            </section>
+            <hr>
+            <section class="personal-traits headersection">
+                <h3>Personal Traits</h2>
+                <ul>
+                    <li>Empathy</li>
+                    <li>Team-player</li>
+                    <li>Creativity</li>
+                    <li>Taking responsability</li>
+                    <li>Curiosity</li>
+                </ul>
+            </section>
+        </div>
+        <div class="right-column">
+            <section class="experience">
+                <h2>Work Experience</h2>
+                <div class="job">
+                    <h3>MaibornWolff SL - Software Developer</h3>
+                    <p>2022.05. – Present</p>
+                    <ul>
+                        <li>Development for custom IoT devices using Azure IoT Edge, with strong focus on performance</li>
+                        <span class="pill-tech">.Net</span>
+                        <span class="pill-tech">Angular</span>
+                        <span class="pill-tech">Docker</span>
+                        <span class="pill-tech">IoT</span>
+                        <span class="pill-tech">Azure</span>
+                        <span class="pill-tech">Grpc</span>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>Betsson Group - Software Developer</h3>
+                    <p>2021.10 – 2022.04.</p>
+                    <ul>
+                        <li>Full-stack development of microservices-based tool</li>
+                        <li>Leading agile ceremonies, organizing team-building activities</li>
+                        <span class="pill-tech">.Net</span>
+                        <span class="pill-tech">Angular</span>
+                        <span class="pill-tech">Docker</span>
+                        <span class="pill-tech">microservices</span>
+                        <span class="pill-tech">MSSQL</span>
+                        <span class="pill-tech">Git</span>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>Varian Medical Systems - Internship</h3>
+                    <p>2019.01 – 2021.10</p>
+                    <ul>
+                        <li>Organizing and clarifying tasks as per the SDLC mindset</li>
+                        <li>Maintenance and development of web and desktop applications</li>
+                        <li>End-to-end responsibility, ensuring product development reliability</li>
+                        <span class="pill-tech">.Net</span>
+                        <span class="pill-tech">Azure DevOps</span>
+                        <span class="pill-tech">TFS</span>
+                        <span class="pill-tech">TeamCity</span>
+                        <span class="pill-tech">Terraform</span>
+                        <span class="pill-tech">MSI installers</span>
+                        <span class="pill-tech">SonarQube</span>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>University of Obuda - Associate Lecturer</h3>
+                    <p>2019.02 – 2022.02</p>
+                    <ul>
+                        <li>Associate Lecturer</li>
+                        <li>Teaching Software Design and development in English and Hungarian</li>
+                        <li>Preparing learning materials and evaluating midterms</li>
+                    </ul>
+                </div>
+                <div class="job">
+                    <h3>Multisoft Ltd. - Internship</h3> 
+                    <p>2018.05 – 2018.12</p>
+                    <ul>
+                        <li>C/AL Developer</li>
+                    </ul>
+                </div>
+            </section>
+            <section class="education">
+                <h2>Education</h2>
+                <div class="education-item">
+                    <h3>Master of Economics, Management and Leadership</h3>
+                    <p>Eötvös Loránd University - 2022</p>
+                </div>
+                <div class="education-item">
+                    <h3>Bachelor of Science in Computer Science</h3>
+                    <p>ERP Systems specialization, University of Obuda - 2020</p>
+                </div>
+            </section>
+        </div>
+    </section>
+    <footer>
+        <p>"I hereby give consent for my personal data included in my application CV to be processed for the purposes of the recruitment process under the Personal Data Protection Act 25 May 2018.”</p>
+    </footer>
+
+    <script>
+        document.getElementById('download-button').addEventListener('click', function () {
+            window.print();
+        });
+    </script>
+</body>
+</html>
