@@ -23,8 +23,11 @@ Tech stack:
 - MBA - Eötvös Loránd University - Hungary (_June 2022_)	 			        		
 - Bachelor of Computer Science - University of Obuda - Hungary (_February 2020_)
 
-## Skills, courses
+## Skills, courses, talks, volunteering
 - English C2 | Spanish C1 | Hungarian C2
 - Internal Scrum Master training
 - Toastmasters International certified public speaking training
 - Empathy | team-player | taking responsibility | humor | curiosity
+- Talk @ Prezi to final year highscool students about CS course at uni
+- Representing CS in former high school
+- COnferences attended: Developer Week Oakland, Super AI Singapore
