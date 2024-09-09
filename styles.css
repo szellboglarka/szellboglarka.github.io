@@ -38,8 +38,8 @@ header .profile {
 
 header .profile img {
     border-radius: 50%;
-    width: 15em;
-    height: max-content;
+    width: 250px;
+    height: 250px;
     margin-right: 1em;
     object-fit: scale-down;
 }
